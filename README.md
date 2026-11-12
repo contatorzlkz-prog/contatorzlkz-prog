@@ -1,28 +1,55 @@
-# ruancr
-
-Roblox / Luau developer focused on gameplay systems, game logic and interfaces.
-
-I enjoy building interactive experiences and experimenting with practical tools for game and web development.
-
-## Focus
-
-- Roblox gameplay systems and mechanics
-- Luau scripting and game logic
-- User interfaces and interactions
-- Small web projects and developer tools
-
-## Technologies
-
-**Languages**  
-Luau · JavaScript · TypeScript · HTML · CSS · Python
-
-**Tools**  
-Roblox Studio · GitHub · VS Code · Supabase · Netlify · Google AI Studio
-
-## Currently exploring
-
-Reliable multiplayer systems, progression mechanics and clean, maintainable code.
+<div align="center">
+  <h1>ruancr</h1>
+  <p><strong>Estudante · Desenvolvedor em formação</strong></p>
+  <p>UI/UX &nbsp;·&nbsp; Sistemas &nbsp;·&nbsp; Roblox / Luau</p>
+</div>
 
 ---
 
-Brazil · Building and learning.
+<div align="center">
+  Gosto de criar experiências digitais que sejam tão boas de usar quanto de funcionar.
+  <br />
+  Meu foco está em interfaces bem pensadas e sistemas que dão vida às experiências.
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>UI / UX</h3>
+      <p>Interfaces limpas, hierarquia visual, feedback e fluxos que fazem sentido para quem usa.</p>
+    </td>
+    <td width="50%">
+      <h3>Sistemas</h3>
+      <p>Mecânicas de gameplay, lógica de jogo, progressão e funcionalidades para experiências Roblox.</p>
+    </td>
+  </tr>
+</table>
+
+### No que trabalho
+
+- **Roblox & Luau** — sistemas de gameplay e interações.
+- **UI/UX** — estrutura, usabilidade e identidade visual de interfaces.
+- **Web** — projetos e ferramentas com foco em simplicidade e funcionalidade.
+
+### Ferramentas e tecnologias
+
+**Desenvolvimento**  
+`Luau` · `JavaScript` · `TypeScript` · `Python`
+
+**Web**  
+`HTML` · `CSS`
+
+**Ferramentas**  
+`Roblox Studio` · `GitHub` · `VS Code` · `Supabase` · `Netlify`
+
+### Atualmente
+
+Estudando e aprimorando arquitetura de sistemas, desenvolvimento com Luau e design de experiências mais intuitivas.
+
+---
+
+<div align="center">
+  <sub>Brasil · Aprendendo, projetando e construindo.</sub>
+</div>
