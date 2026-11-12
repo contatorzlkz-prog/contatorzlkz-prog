@@ -1,55 +1,64 @@
-<div align="center">
-  <h1>ruancr</h1>
-  <p><strong>Estudante · Desenvolvedor em formação</strong></p>
-  <p>UI/UX &nbsp;·&nbsp; Sistemas &nbsp;·&nbsp; Roblox / Luau</p>
-</div>
+<p align="center">
+  <img src="assets/ruancr-header.svg" width="100%" alt="ruancr — UI/UX, systems and Roblox development" />
+</p>
+
+<p align="center">
+  <sub>ESTUDANTE &nbsp;·&nbsp; DESENVOLVIMENTO EM FORMAÇÃO &nbsp;·&nbsp; BRASIL</sub>
+</p>
+
+<h2 align="center">Interface é o que se vê.<br />Sistema é o que faz funcionar.</h2>
+
+<p align="center">
+  Tenho interesse em criar experiências digitais em que design e lógica caminham juntos.
+  <br />
+  Gosto de pensar na jornada de quem usa e também em tudo que precisa acontecer por trás dela.
+</p>
 
 ---
 
-<div align="center">
-  Gosto de criar experiências digitais que sejam tão boas de usar quanto de funcionar.
-  <br />
-  Meu foco está em interfaces bem pensadas e sistemas que dão vida às experiências.
-</div>
-
-<br />
+## 01 / Onde está meu interesse
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>UI / UX</h3>
-      <p>Interfaces limpas, hierarquia visual, feedback e fluxos que fazem sentido para quem usa.</p>
+      <p><strong>Clareza, ritmo e intenção.</strong></p>
+      <p>Hierarquia visual, organização de telas, estados de interface, feedback e interações que deixam a experiência natural.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Sistemas</h3>
-      <p>Mecânicas de gameplay, lógica de jogo, progressão e funcionalidades para experiências Roblox.</p>
+      <p><strong>Lógica, estrutura e comportamento.</strong></p>
+      <p>Mecânicas de gameplay, fluxo de partidas, progressão, dados e a conexão entre diferentes partes de um projeto.</p>
     </td>
   </tr>
 </table>
 
-### No que trabalho
+## 02 / O que estou explorando
 
-- **Roblox & Luau** — sistemas de gameplay e interações.
-- **UI/UX** — estrutura, usabilidade e identidade visual de interfaces.
-- **Web** — projetos e ferramentas com foco em simplicidade e funcionalidade.
+| Área | Interesse |
+| :-- | :-- |
+| **Roblox · Luau** | Sistemas de gameplay, mecânicas, estados e experiências multiplayer. |
+| **UI / UX** | Fluxos intuitivos, composição visual, consistência e feedback de interface. |
+| **Desenvolvimento web** | Interfaces e ferramentas leves, com foco em funcionalidade e usabilidade. |
 
-### Ferramentas e tecnologias
+## 03 / Ferramentas de trabalho
 
-**Desenvolvimento**  
-`Luau` · `JavaScript` · `TypeScript` · `Python`
-
-**Web**  
-`HTML` · `CSS`
+**Linguagens**  
+`Luau` · `JavaScript` · `TypeScript` · `Python` · `HTML` · `CSS`
 
 **Ferramentas**  
-`Roblox Studio` · `GitHub` · `VS Code` · `Supabase` · `Netlify`
+`Roblox Studio` · `VS Code` · `GitHub` · `Supabase` · `Netlify` · `Google AI Studio`
 
-### Atualmente
+## 04 / Como gosto de construir
 
-Estudando e aprimorando arquitetura de sistemas, desenvolvimento com Luau e design de experiências mais intuitivas.
+- **Entender antes de implementar** — uma boa solução começa pelo problema certo.
+- **Design e lógica no mesmo nível** — a interface precisa refletir o que o sistema realmente faz.
+- **Refinar sem complicar** — menos ruído, mais intenção e comportamento previsível.
 
 ---
 
-<div align="center">
-  <sub>Brasil · Aprendendo, projetando e construindo.</sub>
-</div>
+<p align="center">
+  <sub>Este perfil acompanha meus estudos, experimentos e projetos em evolução.</sub>
+  <br />
+  <sub><a href="https://github.com/contatorzlkz-prog">github.com/contatorzlkz-prog</a></sub>
+</p>
