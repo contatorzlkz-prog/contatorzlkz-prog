@@ -1,45 +1,43 @@
-<h2>Sou estudante e gosto de desenvolver sistemas para jogos e pensar na interface desde o começo — não como uma camada colocada no final.</h2>
+<h2>Sou estudante e tenho interesse em UI/UX e desenvolvimento de sistemas para jogos.</h2>
 
-Meu principal ambiente de experimentação é o Roblox, usando Luau. Também estudo desenvolvimento web e gosto especialmente de entender como uma experiência funciona por trás e como ela se apresenta para quem está usando.
+Meu foco principal é Roblox, onde estudo Luau e desenvolvo ideias de gameplay. Também trabalho com projetos web e exploro como design, interface e lógica se conectam em um produto.
 
 <table>
   <tr>
-    <td width="54" valign="middle">
-      <img src="assets/icons/interface.svg" width="40" alt="" />
+    <td width="64" valign="middle" align="center">
+      <img src="assets/icons/interface.svg" width="48" alt="Ícone de interface" />
     </td>
     <td valign="middle">
       <strong>UI / UX</strong><br />
-      Composição de telas, hierarquia visual, navegação, feedback e estados da interface.
+      Hierarquia visual, composição de telas, navegação e feedback de interação.
     </td>
   </tr>
   <tr>
-    <td width="54" valign="middle">
-      <img src="assets/icons/systems.svg" width="40" alt="" />
+    <td width="64" valign="middle" align="center">
+      <img src="assets/icons/systems.svg" width="48" alt="Ícone de sistemas" />
     </td>
     <td valign="middle">
       <strong>Sistemas</strong><br />
-      Mecânicas, progressão, dados e a comunicação entre diferentes partes de um jogo.
+      Regras de gameplay, progressão, dados e integração entre funcionalidades.
     </td>
   </tr>
   <tr>
-    <td width="54" valign="middle">
-      <img src="assets/icons/luau.svg" width="40" alt="" />
+    <td width="64" valign="middle" align="center">
+      <img src="assets/icons/luau.svg" width="48" alt="Ícone de código Luau" />
     </td>
     <td valign="middle">
       <strong>Roblox / Luau</strong><br />
-      Implementação de gameplay e integração entre interface, lógica e comportamento.
+      Scripts de jogo, lógica client/server e conexão entre interface e gameplay.
     </td>
   </tr>
 </table>
 
-### Ferramentas
+### Tecnologias e ferramentas
 
-**Linguagens**  
-`Luau` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `Python`
+**Linguagens:** Luau, JavaScript, TypeScript, HTML, CSS e Python.
 
-**Ambiente**  
-`Roblox Studio` · `VS Code` · `GitHub` · `Supabase` · `Netlify` · `Google AI Studio`
+**Ferramentas:** Roblox Studio, VS Code, GitHub, Supabase, Netlify e Google AI Studio.
 
-### Estudando no momento
+### Atualmente estudando
 
-Luau, organização client/server, persistência de dados e construção de interfaces que acompanham o comportamento do jogo.
+Arquitetura client/server no Roblox, persistência de dados e construção de interfaces consistentes.
