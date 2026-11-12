@@ -118,8 +118,8 @@ stroke(scopeButton, C.line, 0.15)
 -- Resumo
 local function statCard(xScale, title)
     local card = create("Frame", root, {
-        Position = UDim2.new(xScale, 0, 0, 114),
-        Size = UDim2.new(0.333, -9, 0, 58),
+        Position = UDim2.new(xScale, xScale == 0 and 16 or (xScale < 0.5 and 8 or 0), 0, 114),
+        Size = UDim2.new(0.333, -16, 0, 58),
         BackgroundColor3 = C.panel,
         BorderSizePixel = 0,
     })
