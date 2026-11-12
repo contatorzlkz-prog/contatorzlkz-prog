@@ -1,9 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" fill="none" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title">
   <title id="title">Interface</title>
-  <rect x="5.75" y="5.75" width="60.5" height="60.5" rx="13.25" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
-  <rect x="19" y="19" width="34" height="34" rx="4" stroke="#E6EDF3" stroke-width="2.8"/>
-  <path d="M19 29H53M30 29V53" stroke="#E6EDF3" stroke-width="2.6"/>
-  <rect x="23.5" y="34" width="3.5" height="14" rx="1.25" fill="#8B949E"/>
-  <rect x="35" y="34" width="14" height="5" rx="1.5" fill="#E6EDF3"/>
-  <rect x="35" y="43" width="10" height="6" rx="1.5" fill="#8B949E"/>
+  <style>
+    .icon { transform-origin: 12px 12px; animation: float 3s ease-in-out infinite; }
+    .focus { animation: fade 2.4s ease-in-out infinite; }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-1px); } }
+    @keyframes fade { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .icon,.focus { animation: none; } }
+  </style>
+  <g class="icon" stroke="#E6EDF3" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3.75" y="4.75" width="16.5" height="14.5" rx="2"/>
+    <path d="M3.75 9H20.25M9 9V19.25"/>
+    <path class="focus" d="M12.5 12.5H17.5M12.5 15.5H16" stroke="#8B949E"/>
+  </g>
 </svg>
