@@ -8,6 +8,8 @@
 
 ![Prévia da interface do Sceneprint](assets/sceneprint-preview.svg)
 
+<sub>Os números nesta prévia são ilustrativos; a contagem real depende do mapa analisado.</sub>
+
 ## O que é
 
 Sceneprint percorre a hierarquia de uma experiência no Roblox Studio e reúne situações que merecem uma revisão manual. A ideia não é dizer que o mapa está errado, muito menos consertar tudo automaticamente. É ajudar quem está construindo a experiência a perceber detalhes que podem passar despercebidos durante a montagem.
