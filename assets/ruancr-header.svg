@@ -1,60 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">ruancr — UI, UX and systems</title>
-  <desc id="desc">Monochrome editorial banner with a bold wordmark and an abstract interface-system diagram.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Interface and system study</title>
+  <desc id="d">A restrained monochrome study of a user interface connected to a system flow.</desc>
   <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".055" stroke-width="1"/>
+    <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#fff" stroke-opacity=".045" stroke-width="1"/>
     </pattern>
-    <linearGradient id="fade" x1="0" x2="1">
-      <stop offset="0" stop-color="#ffffff" stop-opacity=".12"/>
-      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
-    </linearGradient>
   </defs>
+  <rect width="1200" height="300" fill="#0b0b0b"/>
+  <rect width="1200" height="300" fill="url(#g)"/>
+  <path d="M40 34H1160M40 266H1160" stroke="#777" stroke-opacity=".45"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="52" y="24" font-size="9" fill="#8e8e8e" letter-spacing="2">01 / INTERFACE</text>
+    <text x="1148" y="24" font-size="9" fill="#8e8e8e" letter-spacing="2" text-anchor="end">02 / BEHAVIOR</text>
 
-  <rect width="1200" height="360" fill="#090909"/>
-  <rect width="1200" height="360" fill="url(#grid)"/>
-  <path d="M0 0H1200V360H0Z" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+    <g transform="translate(86 70)">
+      <rect width="390" height="158" fill="#101010" stroke="#a0a0a0" stroke-opacity=".7"/>
+      <path d="M0 25H390" stroke="#666" stroke-opacity=".65"/>
+      <circle cx="14" cy="12.5" r="3" fill="#d7d7d7"/>
+      <circle cx="27" cy="12.5" r="3" fill="#747474"/>
+      <circle cx="40" cy="12.5" r="3" fill="#4e4e4e"/>
+      <rect x="18" y="43" width="100" height="99" fill="#171717" stroke="#5e5e5e"/>
+      <rect x="32" y="57" width="44" height="4" fill="#e6e6e6"/>
+      <rect x="32" y="69" width="70" height="2" fill="#777"/>
+      <rect x="32" y="81" width="60" height="2" fill="#777"/>
+      <rect x="32" y="103" width="72" height="23" fill="#dedede"/>
+      <rect x="44" y="112" width="36" height="4" fill="#151515"/>
+      <rect x="135" y="43" width="237" height="45" fill="#141414" stroke="#555"/>
+      <rect x="150" y="57" width="63" height="4" fill="#dedede"/>
+      <rect x="150" y="69" width="148" height="2" fill="#686868"/>
+      <rect x="135" y="100" width="112" height="42" fill="#141414" stroke="#555"/>
+      <rect x="260" y="100" width="112" height="42" fill="#141414" stroke="#555"/>
+      <path d="M150 115H230M150 126H211M275 115H353M275 126H331" stroke="#777" stroke-width="2"/>
+    </g>
 
-  <g font-family="Inter, Arial, Helvetica, sans-serif">
-    <text x="68" y="62" fill="#a5a5a5" font-size="13" font-weight="600" letter-spacing="3.2">STUDENT / DEVELOPER IN PROGRESS</text>
-    <path d="M68 88H612" stroke="url(#fade)" stroke-width="1"/>
-    <text x="62" y="204" fill="#f5f5f5" font-size="112" font-weight="800" letter-spacing="-8">ruancr</text>
-    <text x="70" y="253" fill="#bdbdbd" font-size="16" font-weight="500" letter-spacing="2.4">UI / UX  ·  SYSTEMS  ·  ROBLOX / LUAU</text>
-    <text x="70" y="310" fill="#777777" font-size="12" letter-spacing="2.1">THINK CLEARLY  /  BUILD CAREFULLY</text>
+    <g transform="translate(600 93)">
+      <text x="0" y="-17" fill="#858585" font-size="9" letter-spacing="2">INPUT → STATE → RESPONSE</text>
+      <rect x="0" y="0" width="118" height="78" fill="#121212" stroke="#777"/>
+      <rect x="156" y="0" width="118" height="78" fill="#121212" stroke="#777"/>
+      <rect x="312" y="0" width="118" height="78" fill="#e4e4e4" stroke="#e4e4e4"/>
+      <text x="59" y="33" fill="#d8d8d8" font-size="11" text-anchor="middle">INPUT</text>
+      <text x="215" y="33" fill="#d8d8d8" font-size="11" text-anchor="middle">LOGIC</text>
+      <text x="371" y="33" fill="#111" font-size="11" text-anchor="middle">OUTPUT</text>
+      <path d="M118 39H156M274 39H312" stroke="#d8d8d8"/>
+      <path d="M148 34L156 39L148 44M304 34L312 39L304 44" fill="none" stroke="#d8d8d8"/>
+      <path d="M59 78V112H371V78" fill="none" stroke="#5c5c5c" stroke-dasharray="3 5"/>
+      <text x="215" y="129" fill="#777" font-size="9" text-anchor="middle" letter-spacing="1.5">OBSERVE · ADJUST · REPEAT</text>
+    </g>
   </g>
-
-  <g transform="translate(748 66)">
-    <rect x="0" y="0" width="374" height="228" rx="2" fill="#0d0d0d" stroke="#8b8b8b" stroke-opacity=".55"/>
-    <path d="M0 34H374" stroke="#777777" stroke-opacity=".6"/>
-    <circle cx="18" cy="17" r="3" fill="#e8e8e8"/>
-    <circle cx="32" cy="17" r="3" fill="#777777"/>
-    <circle cx="46" cy="17" r="3" fill="#555555"/>
-    <text x="344" y="21" fill="#777777" font-family="Arial, sans-serif" font-size="8" text-anchor="end" letter-spacing="1.3">INTERFACE / 01</text>
-
-    <rect x="20" y="54" width="116" height="152" fill="#111111" stroke="#5d5d5d" stroke-opacity=".65"/>
-    <rect x="34" y="68" width="45" height="5" fill="#eeeeee"/>
-    <rect x="34" y="84" width="82" height="3" fill="#777777"/>
-    <rect x="34" y="96" width="69" height="3" fill="#555555"/>
-    <rect x="34" y="124" width="88" height="28" fill="#e8e8e8"/>
-    <rect x="44" y="136" width="40" height="4" fill="#171717"/>
-    <rect x="34" y="165" width="66" height="3" fill="#777777"/>
-    <rect x="34" y="177" width="78" height="3" fill="#555555"/>
-
-    <rect x="153" y="54" width="201" height="65" fill="#111111" stroke="#5d5d5d" stroke-opacity=".65"/>
-    <text x="168" y="73" fill="#858585" font-family="Arial, sans-serif" font-size="8" letter-spacing="1.5">SYSTEM FLOW</text>
-    <rect x="168" y="86" width="45" height="20" fill="#e8e8e8"/>
-    <rect x="225" y="86" width="45" height="20" fill="#333333" stroke="#999999" stroke-width=".7"/>
-    <rect x="282" y="86" width="57" height="20" fill="#333333" stroke="#999999" stroke-width=".7"/>
-    <path d="M213 96H225M270 96H282" stroke="#d8d8d8" stroke-width="1.2"/>
-    <path d="M219 93L225 96L219 99M276 93L282 96L276 99" fill="none" stroke="#d8d8d8" stroke-width="1"/>
-
-    <rect x="153" y="134" width="201" height="72" fill="#111111" stroke="#5d5d5d" stroke-opacity=".65"/>
-    <text x="168" y="153" fill="#858585" font-family="Arial, sans-serif" font-size="8" letter-spacing="1.5">DETAIL / 02</text>
-    <path d="M168 166H339M168 178H309M168 190H326" stroke="#777777" stroke-width="3" stroke-opacity=".65"/>
-    <rect x="322" y="162" width="17" height="34" fill="#e8e8e8"/>
-  </g>
-
-  <path d="M68 337H1132" stroke="#ffffff" stroke-opacity=".16"/>
-  <text x="68" y="352" fill="#666666" font-family="Arial, sans-serif" font-size="8" letter-spacing="1.5">BRAZIL</text>
-  <text x="1132" y="352" fill="#666666" font-family="Arial, sans-serif" font-size="8" text-anchor="end" letter-spacing="1.5">DESIGN × ENGINEERING</text>
+  <text x="52" y="286" font-family="Arial, Helvetica, sans-serif" font-size="8" fill="#626262" letter-spacing="1.6">LAYOUT STUDY</text>
+  <text x="1148" y="286" font-family="Arial, Helvetica, sans-serif" font-size="8" fill="#626262" letter-spacing="1.6" text-anchor="end">MONOCHROME / 001</text>
 </svg>
