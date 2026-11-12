@@ -1,6 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" fill="none" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title">
   <title id="title">Código Luau</title>
-  <rect x="5.75" y="5.75" width="60.5" height="60.5" rx="13.25" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
-  <path d="M29 22L18 36L29 50M43 22L54 36L43 50" stroke="#E6EDF3" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M40 19L32 53" stroke="#8B949E" stroke-width="3" stroke-linecap="round"/>
+  <style>
+    .brackets { transform-origin: 12px 12px; animation: breathe 3s ease-in-out infinite; }
+    .slash { animation: slash 2.8s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { transform: scale(1); } 50% { transform: scale(1.035); } }
+    @keyframes slash { 0%,100% { opacity: .6; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .brackets,.slash { animation: none; } }
+  </style>
+  <g class="brackets" stroke="#E6EDF3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8.5 5L3.5 12L8.5 19M15.5 5L20.5 12L15.5 19"/>
+  </g>
+  <path class="slash" d="M13.5 4.5L10.5 19.5" stroke="#8B949E" stroke-width="1.7" stroke-linecap="round"/>
 </svg>
